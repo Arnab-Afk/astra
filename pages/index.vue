@@ -13,7 +13,8 @@
       </div>
         <!-- <PreviewPortfolio /> -->
       </main>
-      <PreviewFooter />
+      <!-- <PreviewFooter /> -->
+      <CommonFooter2 />
     </div>
   </div>
 </template>

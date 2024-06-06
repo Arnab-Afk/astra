@@ -5,7 +5,7 @@
         <div class="row">
           <div class="col-lg-3">
             <div class="logo">
-              <img src="/assets/imgs/logo-light.png" alt="" />
+              <img src="/assets/imgs/astra.png" alt="" />
             </div>
           </div>
           <div class="col-lg-6">
@@ -29,11 +29,14 @@
           </div>
           <div class="col-lg-3">
             <div class="column">
-              <h6 class="sub-title mb-30">Our Office :</h6>
-              <p>Besòs 1, 08174 Sant Cugat del Vallès, Barcelona</p>
-              <h5 class="mt-15 underline">
+              <h6 class="sub-title mb-30">A platform proudly presented by :</h6>
+              <p><a
+                      href="https://www.linkedin.com/in/manasvi-nawal/"
+                      target="_blank"
+                    >Manasvi Nawal</a> & <a href="https://www.linkedin.com/in/bhowmikarnab/">Arnab Bhowmik</a> </p>
+              <!-- <h5 class="mt-15 underline">
                 <a href="#0">+2 456 34324 45</a>
-              </h5>
+              </h5> -->
             </div>
           </div>
         </div>
@@ -59,15 +62,8 @@
             <div class="copyright d-flex">
               <div class="ml-auto">
                 <p class="fz-13">
-                  © 2024 Bayone is Proudly Powered by
-                  <span class="underline">
-                    <a
-                      href="https://themeforest.net/user/UiCamp"
-                      target="_blank"
-                    >
-                      UiCamp
-                    </a>
-                  </span>
+                  © 2024 Astra is Made with Love for Growth
+                 
                 </p>
               </div>
             </div>

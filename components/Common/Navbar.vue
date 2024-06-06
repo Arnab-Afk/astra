@@ -3,7 +3,7 @@
     <div class="container">
       <div :class="`logo icon-img-${borderBottom ? '100' : '90'}`">
         <nuxt-link to="/">
-          <img src="/assets/imgs/logo-light.png" alt="" />
+          <img src="/assets/imgs/astra.png" alt="" />
         </nuxt-link>
       </div>
       <div class="menu-icon cursor-pointer" @click="toggleMenu">

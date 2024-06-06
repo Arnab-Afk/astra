@@ -2,16 +2,16 @@
   {
     "id": 1,
     "img": "/assets/imgs/works/full/1.jpg",
-    "category": "Digital Design",
-    "title": "Retouch Photo",
+    "category": "Self Improvement",
+    "title": "Speaker Session",
     "year": "2023",
     "link": "/project1"
   },
   {
     "id": 2,
     "img": "/assets/imgs/works/full/2.jpg",
-    "category": "Branding",
-    "title": "Earthmade Aroma",
+    "category": "Marketing",
+    "title": "Branding Tips",
     "year": "2023",
     "link": "/project2"
   },
@@ -38,13 +38,5 @@
     "title": "Blue Adobe MAX",
     "year": "2023",
     "link": "/project1"
-  },
-  {
-    "id": 6,
-    "img": "/assets/imgs/works/full/6.jpg",
-    "category": "Web Design",
-    "title": "Carved Wood",
-    "year": "2023",
-    "link": "/project3"
   }
 ]
