@@ -8,7 +8,7 @@
         <div class="main-box main-bg ontop">
           <LandingHeader />
           <LandingAbout />
-          <!-- <LandingWorks /> -->
+          <LandingWorks />
           <LandingMarquee />
           <LandingBrands />
           <LandingAccordions />
