@@ -5,7 +5,7 @@
         <div class="row">
           <div class="col-lg-3">
             <div class="logo">
-              <img src="/assets/imgs/astra.png" alt="" />
+              <img src="/assets/imgs/fh.png" alt="" />
             </div>
           </div>
           <div class="col-lg-6">
@@ -62,8 +62,7 @@
             <div class="copyright d-flex">
               <div class="ml-auto">
                 <p class="fz-13">
-                  © 2024 Astra is Made with Love for Growth
-                 
+                  © 2024 FeatureHive is Made with ❤ for Growth
                 </p>
               </div>
             </div>

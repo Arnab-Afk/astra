@@ -11,7 +11,7 @@ export default defineNuxtConfig({
   },
   app: {
     head: {
-      title: "Bayone",
+      title: "FeatureHive",
       htmlAttrs: {
         lang: 'en'
       },
@@ -28,15 +28,15 @@ export default defineNuxtConfig({
         },
         {
           name: 'keywords',
-          content: 'Vue Nuxtjs Template Bayone Multi-Purpose themeforest'
+          content: 'A PERFECT PLACE FOR YOUR OVERALL GROWTH.'
         },
         {
           name: 'description',
-          content: 'Bayone - Multi-Purpose Vue Nuxtjs Template'
+          content: 'A perfect place for your overall growth.'
         },
         {
-          name: 'author',
-          content: 'UiCamp'
+          name: 'FeatrueHive',
+          content: 'FeatureHive'
         }
       ],
       "link": [
