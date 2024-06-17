@@ -26,7 +26,7 @@ definePageMeta({
 });
 //= Page Head
 useHead({
-  titleTemplate: `%s - Preview`,
+  titleTemplate: `%s - Home`,
   link: [
     {
       rel: "stylesheet",

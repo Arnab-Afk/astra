@@ -8,8 +8,8 @@
               <h6 class="sub-title opacity-8">
                 we would love to hear from you.
               </h6>
-              <h2 class="underline fz-60">
-                <a href="#0">hello@Bayone.com</a>
+              <h2 class=" fz-50">
+                <a href="mailto:hello@featurehive.live">hello@FeatureHive.live</a>
               </h2>
             </div>
           </div>
@@ -17,7 +17,7 @@
         <div class="row mt-80">
           <div class="col-lg-3">
             <div class="logo">
-              <img src="/assets/imgs/logo-light.png" alt="" />
+              <img src="/assets/imgs/fh.png" alt="" />
             </div>
           </div>
           <div class="col-lg-6">
@@ -41,11 +41,12 @@
           </div>
           <div class="col-lg-3">
             <div class="column">
-              <h6 class="sub-title mb-30">Our Office :</h6>
-              <p>Besòs 1, 08174 Sant Cugat del Vallès, Barcelona</p>
-              <h5 class="mt-15 underline">
-                <a href="#0">+2 456 34324 45</a>
-              </h5>
+              <h6 class="sub-title mb-30">A platform proudly presented by :</h6>
+              <p><a
+                      href="https://www.linkedin.com/in/manasvi-nawal/"
+                      target="_blank"
+                    >Manasvi Nawal</a> & <a href="https://www.linkedin.com/in/bhowmikarnab/">Arnab Bhowmik</a> </p>
+              
             </div>
           </div>
         </div>
@@ -71,15 +72,8 @@
             <div class="copyright d-flex">
               <div class="ml-auto">
                 <p class="fz-13">
-                  © 2024 Bayone is Proudly Powered by
-                  <span class="underline">
-                    <a
-                      href="https://themeforest.net/user/UiCamp"
-                      target="_blank"
-                    >
-                      UiCamp
-                    </a>
-                  </span>
+                  © 2024 FeatureHive is Made with ❤ for Growth
+                  
                 </p>
               </div>
             </div>
